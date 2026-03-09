@@ -1,0 +1,8 @@
+{
+    "hosts": [
+        "8.8.8.8",
+        "google.com",
+        "github.com" ],
+
+    "interval": 60
+}

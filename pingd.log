@@ -1,0 +1,29 @@
+2026-03-09 11:44:22,141 - INFO - Демон запущен, интервал 60 сек, хосты: ['8.8.8.8', 'google.com', 'github.com']
+2026-03-09 11:44:22,156 - INFO - 8.8.8.8 | UP | latency=12.2ms
+2026-03-09 11:44:22,195 - INFO - google.com | UP | latency=11.5ms
+2026-03-09 11:44:22,254 - INFO - github.com | UP | latency=40.0ms
+2026-03-09 11:45:14,802 - INFO - Демон запущен, интервал 10 сек, хосты: ['8.8.8.8', 'google.com', 'github.com']
+2026-03-09 11:45:14,817 - INFO - 8.8.8.8 | UP | latency=12.3ms
+2026-03-09 11:45:14,840 - INFO - google.com | UP | latency=11.5ms
+2026-03-09 11:45:14,895 - INFO - github.com | UP | latency=41.5ms
+2026-03-09 11:45:24,911 - INFO - 8.8.8.8 | UP | latency=12.6ms
+2026-03-09 11:45:24,935 - INFO - google.com | UP | latency=11.3ms
+2026-03-09 11:45:24,991 - INFO - github.com | UP | latency=41.8ms
+2026-03-09 11:46:52,652 - ERROR - Ошибка загрузки конфига: Expecting ',' delimiter: line 5 column 9 (char 59)
+2026-03-09 11:47:26,312 - INFO - Демон запущен, интервал 10 сек, хосты: ['8.8.8.8', 'never.never', 'google.com', 'github.com']
+2026-03-09 11:47:26,328 - INFO - 8.8.8.8 | UP | latency=12.5ms
+2026-03-09 11:47:26,414 - WARNING - never.never | DOWN
+2026-03-09 11:47:26,436 - INFO - google.com | UP | latency=12.1ms
+2026-03-09 11:47:26,491 - INFO - github.com | UP | latency=40.6ms
+2026-03-09 11:47:36,507 - INFO - 8.8.8.8 | UP | latency=12.5ms
+2026-03-09 11:47:36,521 - WARNING - never.never | DOWN
+2026-03-09 11:47:36,544 - INFO - google.com | UP | latency=12.2ms
+2026-03-09 11:47:36,597 - INFO - github.com | UP | latency=40.6ms
+2026-03-09 11:47:46,613 - INFO - 8.8.8.8 | UP | latency=12.0ms
+2026-03-09 11:47:46,626 - WARNING - never.never | DOWN
+2026-03-09 11:47:46,658 - INFO - google.com | UP | latency=20.8ms
+2026-03-09 11:47:46,711 - INFO - github.com | UP | latency=40.7ms
+2026-03-09 11:47:56,726 - INFO - 8.8.8.8 | UP | latency=12.1ms
+2026-03-09 11:47:56,741 - WARNING - never.never | DOWN
+2026-03-09 11:47:56,766 - INFO - google.com | UP | latency=11.2ms
+2026-03-09 11:47:56,819 - INFO - github.com | UP | latency=40.7ms
